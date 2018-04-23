@@ -14,8 +14,8 @@ https://www.facebook.com/events/1705112642901696
 
 1. Node.js: https://nodejs.org/en/download/
 
-2. Konsola (linux-like) z zainstalowanym git'em  
-**Linux/MaxOS:** https://git-scm.com/downloads  
+2. Konsola (linux-like) z zainstalowanym git'em
+**Linux/MaxOS:** https://git-scm.com/downloads
 **Windows:** polecamy http://cmder.net/  (od razu konsola razem z git'em)
 
 3. Nowoczesny edytor / IDE. Jeśli nie masz swojego ulubionego to polecamy:
@@ -42,6 +42,13 @@ Prowadzący przygotowali *boilerplate*, na którym możecie się wzorować.
 W głównym repozytorium kursu znajduje się również [przykładowa aplikacja](sample_app), która została stworzona na bazie wspomnianego *boilerpate'u* i będzie rozwijana w trakcie kursu przez prowadzących. Działającą wersję aplikacji znajdziecie na *GitHub Pages* tego repozytorium.
 ### https://daftcode.github.io/frontend_levelup_2018/
 
+# Pomoc przy pracach domowych, pytania dotyczące treści zajęć
+
+Zachęcamy do zadawania pytań przez [Issues](https://github.com/daftcode/frontend_levelup_2018/issues) tego projektu. Przeglądajcie również pytania innych uczestników, może potraficie na nie odpowiedzieć! :D
+
 # Materiały z zajęć
 
 *Tutaj dzień po zajęciach znajdziecie prezentacje oraz treść zadań domowych.*
+
+1. [Składowe projektu front-end](./01_skladowe_projektu_frontend.md) ([ZADANIE DOMOWE](./01b_zadanie_domowe.md))
+2. [Przeglad frameworków; React (pdf)](./02_przeglad_frameworkow_React.pdf) ([ZADANIE DOMOWE](./02b_zadanie_domowe.md))
